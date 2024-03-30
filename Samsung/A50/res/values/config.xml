@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<bool name="config_allowAutoBrightnessWhileDozing">true</bool>-->
+    <bool name="config_automatic_brightness_available">true</bool>
+    <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
+    <bool name="config_enableBurnInProtection">true</bool>
+    <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
+    <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
+
+    <integer name="config_screenBrightnessDoze">25</integer>
+</resources>
