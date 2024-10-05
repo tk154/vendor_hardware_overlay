@@ -6,6 +6,7 @@
     <bool name="config_enableBurnInProtection">true</bool>
     <bool name="config_powerDecoupleAutoSuspendModeFromDisplay">true</bool>
     <bool name="config_powerDecoupleInteractiveModeFromDisplay">true</bool>
+    <bool name="config_strongAuthRequiredOnBoot">false</bool>
 
     <integer name="config_screenBrightnessDoze">25</integer>
 </resources>
